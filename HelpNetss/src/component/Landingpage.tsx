@@ -32,13 +32,12 @@ const Landingpage = () => {
           />
 
           <div className="flex flex-col items-center max-sm:space-y-4 max-sm:w-full">
-            <div className="w-[600px] h-[500px] border rounded-bl-[26px] border-black rounded-lg p-7 max-sm:w-full max-sm:h-auto max-sm:p-4">
-              <p className="text-black text-[30px] max-sm:text-[16px]">
-                Imagine a world where every donation counts, and every dollar
-                makes a tangible difference. A world where transparency and
-                trust are the foundation of Humanitarian aid. Welcome to
-                HELPNET, a pioneering blockchain-based crowdfunding platform
-                that's changing the face of giving.
+            <div className="w-[600px] h-[500px] border rounded-bl-[26px] border-black rounded-lg p-7 max-sm:w-full max-sm:h-auto max-sm:p-4 flex justify-center items-center">
+              <p className="text-black text-[32px] max-sm:text-[16px] text-center">
+                What if crowdfunding was fair, transparent, and truly
+                community-driven? HelpNet runs on Starknet, governed by a DAO no
+                gatekeepers, no hidden fees. Just real people
+                backing real causes. 
               </p>
             </div>
             <div className="flex justify-center mt-4 max-sm:w-full">
