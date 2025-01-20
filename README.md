@@ -138,6 +138,9 @@ Collaborate closely with Starknet to develop and integrate a Starknet-native sol
 
 ---
 
+## Smart contract 
+[Smart contract code](https://github.com/Nanle100/starknet_hack)
+
 ## Pitch Deck
 
 [Visit HelpNet Presentation](https://www.canva.com/design/DAGbuKeCFsU/4xkg6dRV2PrQn6dWKFpwBA/edit)
@@ -145,5 +148,7 @@ Collaborate closely with Starknet to develop and integrate a Starknet-native sol
 ---
 
 ## Demo
+
+[Demo video]{https://youtu.be/qIDiy-gWd1E?si=m8MIeqExqIChvA47)
 
 Thank you for exploring **HelpNet!** 😁
