@@ -149,6 +149,6 @@ Collaborate closely with Starknet to develop and integrate a Starknet-native sol
 
 ## Demo
 
-[Demo video]{https://youtu.be/qIDiy-gWd1E?si=m8MIeqExqIChvA47)
+[Demo video](https://youtu.be/qIDiy-gWd1E?si=m8MIeqExqIChvA47)
 
 Thank you for exploring **HelpNet!** 😁
